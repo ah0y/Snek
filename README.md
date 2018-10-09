@@ -1,5 +1,6 @@
 # Snek
-Alex drools, Abe rules
+A.* rules
+~~Alex drools, Abe rules~~
 
 
 ~~Classic snake game in ASCII made with ruby.~~
