@@ -45,7 +45,7 @@ class SnakeHead < GameObject
         return obj #hit cherry
       elsif obj.x == @x && obj.y == @y #hit itself
         return obj
-      elsif obj.x > 600 || obj.x < 21 || obj.y > 441 || obj.y < 21
+      elsif obj.x > 629 || obj.x < 1 || obj.y > 469 || obj.y < 1
         return obj #hit wall?
       end
     end
